@@ -64,7 +64,7 @@ p {
 // }
 
 a {
-    color: lighten($link-color,50);
+    color: lighten($link-color,100);
     text-decoration: none;
     transition: color 0.1s linear;
     &:active, &:focus, &:hover {
